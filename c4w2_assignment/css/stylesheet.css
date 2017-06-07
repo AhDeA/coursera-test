@@ -4,6 +4,10 @@
   font-family: Helvetica;
 }
 
+p {
+  position: relative;
+}
+
 div {
   background-color: #73AD21;
   position: relative;
@@ -19,10 +23,9 @@ div {
 span.section-title {
   border: 1px solid #309030;
   padding: 5px;
-  float: right;
   position: absolute;
   top: 0px;
-  right: 0;
+  right: 0px;
   text-align: right;  
   font-size: 125%;
 }
