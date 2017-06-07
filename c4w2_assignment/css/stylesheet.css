@@ -21,7 +21,7 @@ div {
 }
 
 span.section-title {
-  border: 1px solid #309030;
+  border: 1px solid black;
   padding: 5px;
   position: absolute;
   top: 0px;
@@ -36,37 +36,6 @@ h1.page-name {
   color: #73AD21;
   margin: auto;
 }
-
-/*
-h1 {
-}
-
-
-h1.section-title {
-  border: 1px solid #309030;
-  padding: 5px;
-  float: right;
-  position: absolute;
-  top: -20px;
-  right: 0;
-  text-align: right;  
-  width: 120px;
-}
-
-
-
-p {
-  padding: 20px;
-  padding-top: 30px;
-  border: 0px solid purple;
-  background-color: #73AD21;
-  position: absolute;
-  top: 20px;
-  width: 100%;
-  font-family: Helvetica;
-  color: #303090;
-  overflow: hidden;
-}*/
 
 #title_antipasti {
   background-color: #009999;
